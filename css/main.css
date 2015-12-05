@@ -456,6 +456,9 @@ html {
 *, *::after, *::before {
   box-sizing: inherit; }
 
+body {
+  background-color: #ecf0f1 !important; }
+
 h1, h2, h3, h4, .site-title {
   font-family: "Oxygen" !important; }
 
@@ -475,12 +478,25 @@ p {
   margin-right: 10px;
   margin-bottom: 25px; }
 
+.content-block div,
+.content-block h2,
+.content-block p {
+  padding-left: 10px; }
+
 .content-block {
-  background-color: #ecf0f1;
-  border-right: #bdc3c7 2px solid;
-  border-bottom: #BDC3C7 3px solid;
-  border-radius: 4px;
+  background-color: #FFF;
+  border-right: #bdc3c7 1px solid;
+  border-bottom: #BDC3C7 2px solid;
+  border-radius: 10px;
   margin-bottom: 25px; }
+  .content-block div {
+    padding-left: 10px; }
+  .content-block h2 {
+    padding-left: 10px;
+    padding-top: 10px; }
+  .content-block > p {
+    padding-left: 10px;
+    padding-top: 10px; }
 
 .site-footer {
   border-top: none;
