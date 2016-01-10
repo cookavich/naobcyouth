@@ -5,7 +5,7 @@ date:   2016-1-10 16:20:00 -0500
 categories: Youth Ministry Happenings
 ---
 
-## Hi Folks,
+### Hi Folks,
 
 Keep checking back for updated information on events, camp, and other happenings around the youth ministry. 
 
