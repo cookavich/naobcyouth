@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome!"
 date:   2016-1-10 16:20:00 -0500
-categories: Youth Ministry Happenings
+categories: Youth_Ministry
 ---
 
 ### Hi Folks,
