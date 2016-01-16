@@ -472,7 +472,15 @@ p {
   border-top: none;
   border-bottom: none;
   min-height: 56px;
-  position: relative; }
+  position: relative;
+  background-color: #e67e22;
+  border-bottom: 10px solid #d35400; }
+  .site-header .site-title {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #fff; }
+    .site-header .site-title:hover {
+      color: #fff; }
 
 .page-content {
   margin-right: 10px;

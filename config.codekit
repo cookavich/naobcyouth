@@ -147,13 +147,13 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/assets\/C-Groups.jpg": {
+	"\/assets\/c-groups.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 66236,
-		"inputAbbreviatedPath": "\/assets\/C-Groups.jpg",
-		"outputAbbreviatedPath": "\/assets\/C-Groups.jpg",
+		"inputAbbreviatedPath": "\/assets\/c-groups.jpg",
+		"outputAbbreviatedPath": "\/assets\/c-groups.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

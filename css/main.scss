@@ -48,8 +48,8 @@ $on-laptop:        800px;
 @import "../sass/neat";
 
 
-$accent-background: #2c3e50;
-$accent-border-color: #34495e;
+$accent-background: #e67e22;
+$accent-border-color: #d35400;
 $heading-font:'Oxygen' !important;
 $body-font: 'Source Sans Pro' !important;
 
@@ -75,6 +75,17 @@ p {
     border-bottom: none;
     min-height: 56px;
     position: relative;
+    background-color: $accent-background;
+    border-bottom: 10px solid $accent-border-color;
+
+    .site-title {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        color: #fff;
+        &:hover {
+            color: #fff;
+        }
+    }
 }
 
 .page-content {
