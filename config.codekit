@@ -83,6 +83,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/assets\/c-groups.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66236,
+		"inputAbbreviatedPath": "\/_site\/assets\/c-groups.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/c-groups.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/css\/main.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -117,11 +128,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/youth\/ministry\/happenings\/2016\/01\/10\/welcome-post.html": {
+	"\/_site\/youth_ministry\/2016\/01\/10\/welcome-post.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/youth\/ministry\/happenings\/2016\/01\/10\/welcome-post.html",
+		"inputAbbreviatedPath": "\/_site\/youth_ministry\/2016\/01\/10\/welcome-post.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/youth_ministry\/happenings\/2016\/01\/16\/parents-meeting.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/youth_ministry\/happenings\/2016\/01\/16\/parents-meeting.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/youth_ministry\/happenings\/c-group\/2016\/01\/16\/c-groups-starting.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/youth_ministry\/happenings\/c-group\/2016\/01\/16\/c-groups-starting.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
