@@ -9,4 +9,4 @@ On Sunday the 24th we will be having a brief informational meeting to gover over
 
 Hope to see you there!
 
-- Paul and Drew
+Paul and Drew

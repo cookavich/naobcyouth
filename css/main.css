@@ -481,7 +481,8 @@ p {
 .content-block div,
 .content-block h2,
 .content-block p {
-  padding-left: 10px; }
+  padding-left: 10px;
+  padding-right: 10px; }
 
 .content-block {
   background-color: #FFF;

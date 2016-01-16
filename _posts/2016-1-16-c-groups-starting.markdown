@@ -12,4 +12,4 @@ After a break over the winter C-Groups will be starting back up this Wednesday, 
 
 We cannot wait to see what the Lord has in store for us this next semester.
 
-- Paul and Drew
+Paul and Drew
