@@ -11,7 +11,7 @@ Hi parents!
 
 Just wanted to drop you guys a line with the camp info.
 
-### Camp Payments
+#### Camp Payments
 
 As a reminder, early deposits ($75) are due by **February 14th**.  With the early deposits, camp will be a total of $150; without the early deposit, this will go up to $200. The remaining balance is due **May 15th**.
 
@@ -21,7 +21,7 @@ Also, we have online payments! Please go here if you want to pay online:
 
 [Online Payment Gateway](https://form.jotform.com/60245742599969 "Camp Payment Link")
 
-### Camp Dates
+#### Camp Dates
 
 Here are the dates for camp this coming summer:
 
