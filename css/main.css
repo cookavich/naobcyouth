@@ -484,7 +484,9 @@ p {
 
 .page-content {
   margin-right: 10px;
-  margin-bottom: 25px; }
+  margin-bottom: 0;
+  padding-bottom: 0;
+ }
 
 .content-block div,
 .content-block h2,
