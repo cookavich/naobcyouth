@@ -511,6 +511,12 @@ p {
   border-top: none;
   padding: 30px 0; }
 
+a.camp-link {
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 .camp-button{
   margin-right:10px;
   width:100px;
@@ -527,11 +533,11 @@ p {
   font-weight:800;
 }
 
-.turquoise:hover{
+.camp-button:hover{
  opacity:0.8; 
 }
 
-.turquoise:active{
+.camp-button:active{
   width:100px;
   background:#18B495;
   border-bottom: #d35400 1px solid;
