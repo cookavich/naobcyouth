@@ -7,5 +7,5 @@ categories: Youth_Ministry Happenings
 
 We had a blast at night games earlier this month. Here are a couple pics from the night!
 
-![night games]({{ site.url }}/assets//assets/IMG_0696-1.JPG)
-![night games]({{ site.url }}/assets/IMG_0696.JPG)
+![night games]({{ site.url }}/assets//assets/IMG_0697.JPG)
+![night games]({{ site.url }}/assets/IMG_0696.JPG)  
