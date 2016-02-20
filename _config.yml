@@ -15,3 +15,5 @@ github_username: cookavich
 
 # Build settings
 markdown: kramdown
+paginate: 5
+
