@@ -9,8 +9,6 @@
 
     <div class="page-content">
       <div class="wrapper">
-        {{ content }}
-      </div>
       <!-- This loops through the paginated posts -->
       {% for post in paginator.posts %}
         <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
@@ -21,6 +19,9 @@
           {{ post.content }}
         </div>
       {% endfor %}
+      </div>
+    </div>
+
 
       <!-- Pagination links -->
       <div class="pagination">
@@ -37,7 +38,6 @@
         {% endif %}
       </div>
 
-    </div>
 
     {% include footer.html %}
 
