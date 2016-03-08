@@ -7,7 +7,6 @@ categories: Youth_Ministry Events
 
 ![rain]({{ site.url }}/assets/rain.jpg)
 
-
 **WHO:** Everyone
 
 **WHEN:** March 12th 6pm—10pm

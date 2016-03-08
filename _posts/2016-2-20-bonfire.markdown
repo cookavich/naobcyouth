@@ -6,7 +6,7 @@ categories: Youth_Ministry Events
 ---
 
 ![bonfire]({{ site.url }}/assets/bonfire.png)
-
+<div class="strikethrough">
 ### What
 
 Bonfire in Mount Washington!
@@ -19,5 +19,6 @@ Join us for games and bonfire fun (tasty smores, hot dogs, hot chocolate, etc.).
 
 At the Van Arsedale's house from 7:00p to 10:30p.
 165 Eric Christy Rd, Mt Washington, KY 40047, USA
+</div>
 
 # Change of venue due to rain
