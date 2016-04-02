@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "April Camp Information Update"
-date:   2016-4-2 10:15 -0500
+date:   2016-4-2 10:15:00 -0500
 categories: Camp
 ---
 A few updates for camp this month.
