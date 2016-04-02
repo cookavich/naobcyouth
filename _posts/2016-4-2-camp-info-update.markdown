@@ -3,6 +3,9 @@ layout: post
 title:  "April Camp Information Update"
 categories: Camp
 ---
+
+![camp info]({{ site.url }}/assets/camp-info.jpg)
+
 A few updates for camp this month.
 
 1) Crossings Information Packets

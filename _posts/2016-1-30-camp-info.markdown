@@ -5,7 +5,7 @@ date:   2016-1-30 08:45:00 -0500
 categories: Youth_Ministry Camp
 ---
 
-![c-groups]({{ site.url }}/assets/camp-info.jpg)
+![camp info]({{ site.url }}/assets/camp-info.jpg)
 
 Hi parents!
 
