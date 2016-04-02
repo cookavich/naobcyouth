@@ -83,6 +83,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/assets\/bonfire.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86733,
+		"inputAbbreviatedPath": "\/_site\/assets\/bonfire.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/bonfire.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/c-groups.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -94,36 +105,93 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/css\/main.css": {
-		"fileType": 16,
-		"ignore": 1,
+	"\/_site\/assets\/camp-info.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/css\/main.css",
+		"initialSize": 76469,
+		"inputAbbreviatedPath": "\/_site\/assets\/camp-info.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/camp-info.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/IMG_0696.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 298577,
+		"inputAbbreviatedPath": "\/_site\/assets\/IMG_0696.JPG",
+		"outputAbbreviatedPath": "\/_site\/assets\/IMG_0696.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/IMG_0697.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 295695,
+		"inputAbbreviatedPath": "\/_site\/assets\/IMG_0697.JPG",
+		"outputAbbreviatedPath": "\/_site\/assets\/IMG_0697.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/night-games.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 246940,
+		"inputAbbreviatedPath": "\/_site\/assets\/night-games.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/night-games.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/rain.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96624,
+		"inputAbbreviatedPath": "\/_site\/assets\/rain.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/rain.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/camp\/2016\/04\/02\/camp-info-update.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/camp\/2016\/04\/02\/camp-info-update.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/css\/main.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/css\/main.scss",
-		"outputAbbreviatedPath": "\/_site\/css\/main.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 0,
-		"useLibsass": 1
 		},
 	"\/_site\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/page2\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/page2\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/page3\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/page3\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -137,11 +205,56 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/youth_ministry\/camp\/2016\/01\/30\/camp-info.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/youth_ministry\/camp\/2016\/01\/30\/camp-info.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/youth_ministry\/events\/2016\/02\/06\/night-games.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/youth_ministry\/events\/2016\/02\/06\/night-games.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/youth_ministry\/events\/2016\/03\/07\/bonfire-backup-plan.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/youth_ministry\/events\/2016\/03\/07\/bonfire-backup-plan.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/youth_ministry\/events\/2016\/04\/02\/new-date-split-games.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/youth_ministry\/events\/2016\/04\/02\/new-date-split-games.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/youth_ministry\/happenings\/2016\/01\/16\/parents-meeting.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/youth_ministry\/happenings\/2016\/01\/16\/parents-meeting.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/youth_ministry\/happenings\/2016\/02\/20\/night-games-fun.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/youth_ministry\/happenings\/2016\/02\/20\/night-games-fun.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -176,6 +289,17 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/assets\/bonfire.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86733,
+		"inputAbbreviatedPath": "\/assets\/bonfire.png",
+		"outputAbbreviatedPath": "\/assets\/bonfire.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/c-groups.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -183,6 +307,61 @@
 		"initialSize": 66236,
 		"inputAbbreviatedPath": "\/assets\/c-groups.jpg",
 		"outputAbbreviatedPath": "\/assets\/c-groups.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/camp-info.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76469,
+		"inputAbbreviatedPath": "\/assets\/camp-info.jpg",
+		"outputAbbreviatedPath": "\/assets\/camp-info.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/IMG_0696.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 298577,
+		"inputAbbreviatedPath": "\/assets\/IMG_0696.JPG",
+		"outputAbbreviatedPath": "\/assets\/IMG_0696.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/IMG_0697.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 295695,
+		"inputAbbreviatedPath": "\/assets\/IMG_0697.JPG",
+		"outputAbbreviatedPath": "\/assets\/IMG_0697.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/night-games.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 246940,
+		"inputAbbreviatedPath": "\/assets\/night-games.jpg",
+		"outputAbbreviatedPath": "\/assets\/night-games.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/rain.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96624,
+		"inputAbbreviatedPath": "\/assets\/rain.jpg",
+		"outputAbbreviatedPath": "\/assets\/rain.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

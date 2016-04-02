@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "April Camp Information Update"
-date:   2016-4-2 10:15:00 -0500
 categories: Camp
 ---
 A few updates for camp this month.
@@ -10,7 +9,9 @@ A few updates for camp this month.
 
 Crossings has sent out a great information packet for parents and guardians laying out what you need to know about camp, get done for camp, and what you can expect for your student from camp. We highly recommend that you download and read this packet ASAP, and let Drew or Paul know if you have any more questions.
  
-Click here to download the information packet: ![2016 Crossings Parents and Guardian Info Packet ]({{ site.url }}/assets/ParentandGuardianPacket_2016_Interactive.pdf)
+Click here to download the information packet: 
+
+[2016 Crossings Parents and Guardian Info Packet ]({{ site.url }}/assets/ParentandGuardianPacket_2016_Interactive.pdf)
    
 2) Don't forget to register your student for their POIs!
 

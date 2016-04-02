@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "New Date for this Month's Split Games"
-date:   2016-4-2 10:30:00 -0500
 categories: Youth_Ministry Events
+published: true
 ---
 As you've hopefully already heard, we are shifting the date of the split games that we had scheduled for Saturday the 23rd of this month to the very next day, Sunday the 24th.
  
