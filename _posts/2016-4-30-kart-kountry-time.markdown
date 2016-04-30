@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kart Kountry Fun"
-date:   2016-4-30 8:00 -0500
+date:   2016-4-29 20:00 -0500
 categories: Youth_Ministry Events
 ---
 
