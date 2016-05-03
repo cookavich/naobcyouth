@@ -7,7 +7,7 @@ categories: Youth_Ministry Events
 
 ![Kart Kountry]({{ site.url }}/assets/kart-kountry.jpg)
 
-Reminder for everyone to mark your calendars for ourgit  end of the semester Kart Kountry outing on May 28th.
+Reminder for everyone to mark your calendars for our end of the semester Kart Kountry outing on May 28th.
 
 Departure time from the church is at 12:00pm, and we'll be getting back to the church around 4:00pm.
 
