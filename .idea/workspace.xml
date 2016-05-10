@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="910c7324-8888-46fa-9d34-b14b297a6c9f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/end-of-semester-announcements.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2016-5-10-end-of-semester-updates.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-4-30-kart-kountry-time.markdown" afterPath="$PROJECT_DIR$/_posts/2016-4-30-kart-kountry-time.markdown" />
     </list>
     <ignored path="ninthando.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,14 +48,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-4-30-kart-kountry-time.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-4-30-kart-kountry-time.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-4-30-kart-kountry-time.markdown">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31322506">
-              <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+            <state vertical-scroll-proportion="-3.6206896">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-5-10-end-of-semester-updates.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-5-10-end-of-semester-updates.markdown">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="2.0930233">
+              <caret line="55" column="69" selection-start-line="55" selection-start-column="69" selection-end-line="55" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -66,7 +80,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-1.5517242">
               <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
@@ -128,6 +142,7 @@
         <option value="$PROJECT_DIR$/_posts/2016-1-30-camp-info.markdown" />
         <option value="$PROJECT_DIR$/_posts/2016-4-2-camp-info-update.markdown" />
         <option value="$PROJECT_DIR$/_posts/2016-4-30-kart-kountry-time.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2016-5-10-end-of-semester-updates.markdown" />
       </list>
     </option>
   </component>
@@ -167,7 +182,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -230,7 +245,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,11 +255,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../mean-todo" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_site/assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
     </key>
   </component>
   <component name="RunManager">
@@ -314,22 +329,22 @@
     <frame x="1" y="23" width="1439" height="812" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13187589" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22284909" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24892704" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32409972" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3236111" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827586" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -366,17 +381,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2016-4-2-camp-info-update.markdown">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/c-groups.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -760,7 +764,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-1.5517242">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
@@ -771,8 +775,19 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31322506">
-          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+        <state vertical-scroll-proportion="-3.6206896">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-5-10-end-of-semester-updates.markdown">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.0930233">
+          <caret line="55" column="69" selection-start-line="55" selection-start-column="69" selection-end-line="55" selection-end-column="69" />
           <folding />
         </state>
       </provider>
