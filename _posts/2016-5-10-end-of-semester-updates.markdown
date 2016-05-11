@@ -28,7 +28,7 @@ Immediately after the second service we will be hosting a short parents meeting 
 
 *Also, as a reminder, final payment on camps are due May 15th, as well.*
 
-###Worship Team Interest Meeting
+### Worship Team Interest Meeting
 
 Following BFG (that's what the kids call Sunday School these days) on Sunday, May 22nd, we will be having a Worship Team interest meeting at 12. It shouldn't take too long, but we want to be able to begin to organize a team for the Summer Youth Worship Nights.
 
