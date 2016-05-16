@@ -16,12 +16,12 @@ Here's the overview of the summer that was handed out at the parents meeting.
 
 25th - Worship Band Practice
 
-28th - Kart Kountry
+28th - Kart Kountry (12:00p-4:00p)
 
 #### June
 1st	- Worship Band Practice
 
-4th	- Hangout at Sids house
+4th	- Hangout at Sids house (5:00p-8:00p)
 
 5th	- Worship Night
 
