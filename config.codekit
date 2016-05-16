@@ -116,6 +116,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/end-of-semester-announcements.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75141,
+		"inputAbbreviatedPath": "\/_site\/assets\/end-of-semester-announcements.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/end-of-semester-announcements.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/IMG_0696.JPG": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -134,6 +145,17 @@
 		"initialSize": 295695,
 		"inputAbbreviatedPath": "\/_site\/assets\/IMG_0697.JPG",
 		"outputAbbreviatedPath": "\/_site\/assets\/IMG_0697.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/kart-kountry.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39569,
+		"inputAbbreviatedPath": "\/_site\/assets\/kart-kountry.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/kart-kountry.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -266,6 +288,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/youth_ministry\/events\/2016\/04\/29\/kart-kountry-time.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/youth_ministry\/events\/2016\/04\/29\/kart-kountry-time.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/youth_ministry\/events\/2016\/05\/10\/end-of-semester-updates.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/youth_ministry\/events\/2016\/05\/10\/end-of-semester-updates.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/youth_ministry\/happenings\/2016\/01\/16\/parents-meeting.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -347,6 +387,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/end-of-semester-announcements.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75141,
+		"inputAbbreviatedPath": "\/assets\/end-of-semester-announcements.png",
+		"outputAbbreviatedPath": "\/assets\/end-of-semester-announcements.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/IMG_0696.JPG": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -365,6 +416,17 @@
 		"initialSize": 295695,
 		"inputAbbreviatedPath": "\/assets\/IMG_0697.JPG",
 		"outputAbbreviatedPath": "\/assets\/IMG_0697.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/kart-kountry.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39569,
+		"inputAbbreviatedPath": "\/assets\/kart-kountry.jpg",
+		"outputAbbreviatedPath": "\/assets\/kart-kountry.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
