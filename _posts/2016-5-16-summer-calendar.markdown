@@ -11,12 +11,12 @@ Hey all.
 
 Here's the overview of the summer that was handed out at the parents meeting.
 
-###May
+### May
 22nd		Worship Band Informational Meeting
 25th		Worship Band Practice
 28th		Kart Kountry
 
-###June
+### June
 1st		Worship Band Practice
 4th		Hangout at Sids house
 5th		Worship Night
@@ -25,12 +25,12 @@ Here's the overview of the summer that was handed out at the parents meeting.
 **20th-24th	Middle School Camp**
 26th		Worship Night
 
-###July
+### July
 **8th-12th	High School Camp**
 16th 		Scavenger Hunt
 17th 		Worship Night
 30th		Holiday World
 
-###August
+### August
 7th     Worship Night
 13		End of Summer Bonfire
