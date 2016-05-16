@@ -5,6 +5,8 @@ date:   2016-5-16 18:00 -0500
 categories: Youth_Ministry
 ---
 
+![Summer Calendar]({{ site.url }}/assets/summer-calendar-2016.png)
+
 Hey all.
 
 Here's the overview of the summer that was handed out at the parents meeting.
