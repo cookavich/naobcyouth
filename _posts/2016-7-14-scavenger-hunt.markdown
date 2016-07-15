@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scavenger Hunt @ St. Matthews Mall - Meet at Food Court"
-date:   2016-7-14 21:30 -0500
+date:   2016-7-14 21:10 -0500
 categories: Youth_Ministry Events
 ---
 
