@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "More Info On Holiday World"
-date:   2016-7-20 17:30 -0500
+date:   2016-7-20 18:00 -0500
 categories: Youth_Ministry Events
 ---
+![Splashin Safari]({{ site.url }}/assets/splashin-safari.png)
 
 HEY PEEPS
 
@@ -28,5 +29,7 @@ When: Saturday, July 30th.
 ### Sign Up Form
 
 **Fill out the following form if you're interested in coming:**
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfUSkBznd4p5jzI8hjmiVk5yOXyH4zF_-lz-Hj4nFooHX0vQQ/viewform?embedded=true" width="650" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 Contact Drew or Paul if you want to come!
