@@ -19,6 +19,7 @@ $20 per ticket (plus the cost of any souvenirs and two meals)
 When: Saturday, July 30th. 
 
 **Here's a brief rundown on our timeline:**
+
 * 10am - Leave
 * 11:30am - Arrive at Holiday World (They're an hour behind us so this will get us there 30 minutes after the gates open.)
 * 11:30-5:30pm  - At park
