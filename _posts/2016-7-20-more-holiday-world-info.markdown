@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "More Info On Holiday World"
-date:   2016-7-20 18:00 -0500
+date:   2016-7-20 17:30 -0500
 categories: Youth_Ministry Events
 ---
 
