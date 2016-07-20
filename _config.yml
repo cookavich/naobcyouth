@@ -15,6 +15,7 @@ github_username: cookavich
 gems: [jekyll-paginate, jekyll-gist]
 paginate: 5
 paginate_path: "page:num"
+future: true
 
 # Build settings
 sudomarkdown: kramdown
